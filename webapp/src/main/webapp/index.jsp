@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>my site registration canada</h1>
+    <h1>canada</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
